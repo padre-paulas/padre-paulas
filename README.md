@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavlo🇺🇦 (not Pablo🇪🇸)
 - 👀 I’m interested in all kinds of stuff
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on JS, HTML projects
 - 📫 How to reach me: pavlo.nord@gmail.com
 
