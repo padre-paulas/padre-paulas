@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pavlo🇺🇦 (not Pablo🇪🇸)
-- 🌱 I’m currently learning JS
+- 👨🏻‍💻 I’m currently learning JS
 - 🤝 I’m looking to collaborate on Swift, JS projects
 - 📫 How to reach me: pavlo.nord@gmail.com
 
