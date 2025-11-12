@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavlo🇺🇦 (not Pablo🇪🇸)
-- 👨🏻‍💻 I’m currently learning JS
-- 🤝 I’m looking to collaborate on Swift, JS projects
+- 👨🏻‍💻 I’m currently learning Node.js and Express.js
+- 🤝 I’m looking to collaborate on iOS, Web projects
 - 📫 How to reach me: pavlo.nord@gmail.com
 
 <!---
